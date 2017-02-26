@@ -1,11 +1,4 @@
-سورس ادیت شذه بیوند2.7
-###Best Source Of Self Bots :)
-
-**An Fun bot based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) licensed under the [GNU General Public License](https://github.com/BeyondTeam/Self-Bot/blob/master/LICENSE)**.
-
-#Don't Forget Star To Us :)
-#یادتون نره بهمون ستاره بدید :)
-
+self-bot @Tel_d
 # نحوه نصب کردن بر روی سرور
 
 # به ترتیب بزنید
