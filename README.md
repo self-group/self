@@ -1,4 +1,4 @@
-# Beyond Self Bot Version 2.7
+سورس ادیت شذه بیوند2.7
 ###Best Source Of Self Bots :)
 
 **An Fun bot based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) licensed under the [GNU General Public License](https://github.com/BeyondTeam/Self-Bot/blob/master/LICENSE)**.
@@ -53,25 +53,6 @@ screen ./beyond.sh
 ```
 
 #Developer&Founder : 
-#[SoLiD021](https://telegram.me/SoLiD021)
-
+#[mmd](https://telegram.me/tel_d)
 #Developer&Manager : 
-#[AliReza](https://telegram.me/CliApi)
-
-* * *
-
-# Special Thx To :
-###Seed Team
-
-###And All My Friends :D
-
-#Team Channel :
-
-#[@BeyondTeam](https://telegram.me/BeyondTeam)
-
-###اگر مشکلی داشتید به لینک زیر بیاید و مطرح کنید
-###If You Have Any Problem With Source, Join To Link And Ask About Your Problem
-#[Group Support](https://telegram.me/joinchat/DH-5lD7jQzz0TsOC3Ar5Tg)
-
-#موفق باشید -_-
-#Good Luck -_-
+#[mmd](https://telegram.me/tel_d)
